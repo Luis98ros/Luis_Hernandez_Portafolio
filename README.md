@@ -4,5 +4,8 @@ Portafolio de Luis Hernandez - Data Science Projects
   
 <h2>👨‍💻 Data Science Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Data Science</b>
+  - [Fraud Detection Logistic Regression & Decision Trees](https://github.com/Luis98ros/Detection_Fraude_Regression_Trees)
+  - [Neuronal Networks & NLP](https://github.com/Luis98ros/Neuronal-Networks)
+  - [House Pricing Hubert & Linear Regression](https://github.com/Luis98ros/Regression-Pricing)
+
